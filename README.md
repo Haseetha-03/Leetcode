@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Haseetha-03/Leetcode/tree/master/0043-multiply-strings) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Haseetha-03/Leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
