@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Haseetha-03/Leetcode/tree/master/0043-multiply-strings) |
+| [0812-rotate-string](https://github.com/Haseetha-03/Leetcode/tree/master/0812-rotate-string) |
 ## Simulation
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Haseetha-03/Leetcode/tree/master/0197-rising-temperature) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Haseetha-03/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
