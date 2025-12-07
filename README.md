@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Haseetha-03/Leetcode/tree/master/0812-rotate-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Haseetha-03/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Haseetha-03/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
