@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Haseetha-03/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/Haseetha-03/Leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Haseetha-03/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Haseetha-03/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Haseetha-03/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Haseetha-03/Leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Haseetha-03/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Haseetha-03/Leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Haseetha-03/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Haseetha-03/Leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
