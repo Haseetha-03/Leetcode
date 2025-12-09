@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Haseetha-03/Leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Haseetha-03/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Haseetha-03/Leetcode/tree/master/0217-contains-duplicate) |
+| [0896-monotonic-array](https://github.com/Haseetha-03/Leetcode/tree/master/0896-monotonic-array) |
 ## Hash Table
 |  |
 | ------- |
