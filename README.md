@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Haseetha-03/Leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Haseetha-03/Leetcode/tree/master/0043-multiply-strings) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Haseetha-03/Leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Haseetha-03/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Haseetha-03/Leetcode/tree/master/0043-multiply-strings) |
 | [0812-rotate-string](https://github.com/Haseetha-03/Leetcode/tree/master/0812-rotate-string) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Haseetha-03/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Haseetha-03/Leetcode/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/Haseetha-03/Leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
