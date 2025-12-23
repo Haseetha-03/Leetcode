@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Haseetha-03/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Haseetha-03/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Haseetha-03/Leetcode/tree/master/0043-multiply-strings) |
+| [0344-reverse-string](https://github.com/Haseetha-03/Leetcode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/Haseetha-03/Leetcode/tree/master/0812-rotate-string) |
 ## Simulation
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Haseetha-03/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Haseetha-03/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Haseetha-03/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/Haseetha-03/Leetcode/tree/master/0344-reverse-string) |
 | [1089-duplicate-zeros](https://github.com/Haseetha-03/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Greedy
 |  |
